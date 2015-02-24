@@ -1,0 +1,30 @@
+{
+  "name": "stringicons",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Reklino/stringicons",
+  "authors": [
+    "Reklino <yakub89@gmail.com>"
+  ],
+  "description": "Simple, thin application icons created on a 32 pixel grid.",
+  "main": "style.css",
+  "keywords": [
+    "icons",
+    "thin",
+    "font",
+    "string",
+    "simple",
+    "icon"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "demo-files",
+    ".gitignore",
+    "demo.html",
+    "Read Me.txt"
+  ]
+}
