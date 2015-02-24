@@ -1,0 +1,305 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?4lzvp7');
+	src:url('fonts/icomoon.eot?#iefix4lzvp7') format('embedded-opentype'),
+		url('fonts/icomoon.woff?4lzvp7') format('woff'),
+		url('fonts/icomoon.ttf?4lzvp7') format('truetype'),
+		url('fonts/icomoon.svg?4lzvp7#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-thin_brush:before {
+	content: "\e600";
+}
+
+.icon-thin-02:before {
+	content: "\e601";
+}
+
+.icon-thin-03:before {
+	content: "\e602";
+}
+
+.icon-thin-04:before {
+	content: "\e603";
+}
+
+.icon-thin-05:before {
+	content: "\e604";
+}
+
+.icon-thin-06:before {
+	content: "\e605";
+}
+
+.icon-thin-07:before {
+	content: "\e606";
+}
+
+.icon-thin-08:before {
+	content: "\e607";
+}
+
+.icon-thin-09:before {
+	content: "\e608";
+}
+
+.icon-thin-10:before {
+	content: "\e609";
+}
+
+.icon-thin-11:before {
+	content: "\e60a";
+}
+
+.icon-thin-12:before {
+	content: "\e60b";
+}
+
+.icon-thin-13:before {
+	content: "\e60c";
+}
+
+.icon-thin-14:before {
+	content: "\e60d";
+}
+
+.icon-thin-15:before {
+	content: "\e60e";
+}
+
+.icon-thin-16:before {
+	content: "\e60f";
+}
+
+.icon-thin-17:before {
+	content: "\e610";
+}
+
+.icon-thin-18:before {
+	content: "\e611";
+}
+
+.icon-thin-19:before {
+	content: "\e612";
+}
+
+.icon-thin-20:before {
+	content: "\e613";
+}
+
+.icon-thin-21:before {
+	content: "\e614";
+}
+
+.icon-thin-22:before {
+	content: "\e615";
+}
+
+.icon-thin-23:before {
+	content: "\e616";
+}
+
+.icon-thin-24:before {
+	content: "\e617";
+}
+
+.icon-thin-25:before {
+	content: "\e618";
+}
+
+.icon-thin-26:before {
+	content: "\e619";
+}
+
+.icon-thin-27:before {
+	content: "\e61a";
+}
+
+.icon-thin-28:before {
+	content: "\e61b";
+}
+
+.icon-thin-29:before {
+	content: "\e61c";
+}
+
+.icon-thin-30:before {
+	content: "\e61d";
+}
+
+.icon-thin-31:before {
+	content: "\e61e";
+}
+
+.icon-thin-32:before {
+	content: "\e61f";
+}
+
+.icon-thin-33:before {
+	content: "\e620";
+}
+
+.icon-thin-34:before {
+	content: "\e621";
+}
+
+.icon-thin-35:before {
+	content: "\e622";
+}
+
+.icon-thin-36:before {
+	content: "\e623";
+}
+
+.icon-thin-37:before {
+	content: "\e624";
+}
+
+.icon-thin-38:before {
+	content: "\e625";
+}
+
+.icon-thin-39:before {
+	content: "\e626";
+}
+
+.icon-thin-40:before {
+	content: "\e627";
+}
+
+.icon-thin-41:before {
+	content: "\e628";
+}
+
+.icon-thin-42:before {
+	content: "\e629";
+}
+
+.icon-thin-43:before {
+	content: "\e62a";
+}
+
+.icon-thin-44:before {
+	content: "\e62b";
+}
+
+.icon-thin-45:before {
+	content: "\e62c";
+}
+
+.icon-thin-46:before {
+	content: "\e62d";
+}
+
+.icon-thin-47:before {
+	content: "\e62e";
+}
+
+.icon-thin-48:before {
+	content: "\e62f";
+}
+
+.icon-thin-49:before {
+	content: "\e630";
+}
+
+.icon-thin-50:before {
+	content: "\e631";
+}
+
+.icon-thin-51:before {
+	content: "\e632";
+}
+
+.icon-thin-52:before {
+	content: "\e633";
+}
+
+.icon-thin-53:before {
+	content: "\e634";
+}
+
+.icon-thin-54:before {
+	content: "\e635";
+}
+
+.icon-thin-55:before {
+	content: "\e636";
+}
+
+.icon-thin-56:before {
+	content: "\e637";
+}
+
+.icon-thin-57:before {
+	content: "\e638";
+}
+
+.icon-thin-58:before {
+	content: "\e639";
+}
+
+.icon-thin-59:before {
+	content: "\e63a";
+}
+
+.icon-thin-60:before {
+	content: "\e63b";
+}
+
+.icon-thin-61:before {
+	content: "\e63c";
+}
+
+.icon-thin-62:before {
+	content: "\e63d";
+}
+
+.icon-thin-63:before {
+	content: "\e63e";
+}
+
+.icon-thin-64:before {
+	content: "\e63f";
+}
+
+.icon-thin-65:before {
+	content: "\e640";
+}
+
+.icon-thin-66:before {
+	content: "\e641";
+}
+
+.icon-thin-67:before {
+	content: "\e642";
+}
+
+.icon-thin-68:before {
+	content: "\e643";
+}
+
+.icon-thin-69:before {
+	content: "\e644";
+}
+
+.icon-thin-70:before {
+	content: "\e645";
+}
+
